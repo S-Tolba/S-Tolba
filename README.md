@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-tolba&label=Profile%20views&color=0e75b6&style=flat" alt="s-tolba" /> </p>
 
-<p align="left"> <a href="https://twitter.com/seiftolba00" target="blank"><img src="https://img.shields.io/twitter/follow/seiftolba00?logo=twitter&style=for-the-badge" alt="seiftolba00" /></a> </p>
+<p align="left"> <a href="https://twitter.com/seiftolba01" target="blank"><img src="https://img.shields.io/twitter/follow/seiftolba00?logo=twitter&style=for-the-badge" alt="seiftolba01" /></a> </p>
 
 - 🌱 I’m currently learning **Web Development**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/seiftolba00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seiftolba00" height="30" width="40" /></a>
+<a href="https://twitter.com/seiftolba01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="seiftolba00" height="30" width="40" /></a>
 <a href="https://instagram.com/seif.tolba0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="seif.tolba0" height="30" width="40" /></a>
 <a href="https://discord.gg/yz9vGfTz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yz9vGfTz" height="30" width="40" /></a>
 </p>
